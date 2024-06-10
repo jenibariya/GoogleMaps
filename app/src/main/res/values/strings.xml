@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Location Source</string>
+
+    <string name="add_place">
+        No place available. Let\'s start by adding few places.
+    </string>
+    <string name="add_location">Add Location</string>
+
+    <string name="google_maps_key">AIzaSyBSNyp6GQnnKlrMr7hD2HGiyF365tFlK5U</string>
+
+    <string name="save_place">
+        Do you want to save this selected location?
+    </string>
+
+    <string name="update_place">
+        Do you want to update this selected location?
+    </string>
+
+    <string name="save_location">Save</string>
+
+</resources>
